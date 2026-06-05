@@ -1,8 +1,13 @@
 💫 About Me
+
 🎓 Computer Science graduate focused on AI/ML, Full-Stack Development, and Software Engineering.
+
 🚀 Experienced in building NLP applications, Computer Vision solutions, and cloud-deployed web applications using Java, Python, Spring Boot, and React.
+
 🌱 Currently exploring advanced Full-Stack Development, System Design, and scalable software architectures.
+
 💬 Ask me about Java, Python, SQL, Machine Learning, and Data Structures & Algorithms.
+
 ⚡ Built projects including Learnify (NLP-powered AI tutoring platform), Tomato Leaf Disease Detection (91%+ accuracy), and an AI-based Certificate Verification System.
 
 
